@@ -1,1 +1,2 @@
-# Analise-Exploratoria-Rotten-Tomatoes
+# Analise Exploratoria dos dados do Rotten Tomatoes
+🎬🍅 Nesta análise exploratória dos dados do Rotten Tomatoes, examinei a distribuição das classificações de filmes e séries, a relação entre as avaliações dos críticos e do público, além das preferências por gênero e região. Essas analises são cruciais para entender as tendências e preferências do público, auxiliando estúdios e produtores no desenvolvimento de estratégias de conteúdo e marketing. 
